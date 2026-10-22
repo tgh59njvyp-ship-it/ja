@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans JP', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+.canvas-grid {
+  background-size: 24px 24px;
+  background-image: radial-gradient(circle, #cbd5e1 1px, transparent 1px);
+}
+
+.dark-canvas-grid {
+  background-size: 24px 24px;
+  background-image: radial-gradient(circle, #334155 1px, transparent 1px);
+}

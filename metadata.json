@@ -1,0 +1,6 @@
+{
+  "name": "Dify Studio - AI Builder Platform",
+  "description": "初心者から上級者まで、AIアプリ・チャットボット・RAGナレッジ・自動化ワークフローを直感的に作成・テスト・公開できる本格的なノーコード/ローコードAIビルダープラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
